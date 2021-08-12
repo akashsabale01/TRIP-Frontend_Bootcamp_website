@@ -1,31 +1,32 @@
-# TRIP-Frontend_Bootcamp_website
+# TRIP-Frontend Bootcamp Website
 
-Simple one page website for a fake bootcamp
+>Simple one page website for a fake bootcamp
 
 
 ## Tech Stack
 
 **Frontend:** Html 5, Bootstrap 5
 
-  
+
 ## Website Demo
 
-https://akashsabale01.github.io/TRIP-Frontend_Bootcamp_website/
+[Visit TRIP-Frontend Bootcamp Website ](https://akashsabale01.github.io/TRIP-Frontend_Bootcamp_website/#instructors) 
+ :link:
 
   
 ## Lessons Learned
 
 
-  Responsive Navbar
+* Responsive Navbar
 
-  Flex and Grid
+* Flex and Grid
 
-  Cards
+* Cards
   
-  Modal
+* Modal
 
-  Use Accordion for FAQ
+* Use Accordion for FAQ
 
-  How to use Bootstrap Icons
+* How to use Bootstrap Icons
 
-  How to add Map from google map
+* How to add Map from google map
