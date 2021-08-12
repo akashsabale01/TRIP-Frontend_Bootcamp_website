@@ -10,7 +10,7 @@
 
 ## Website Demo
 
-[Visit TRIP-Frontend Bootcamp Website ](https://akashsabale01.github.io/TRIP-Frontend_Bootcamp_website/#instructors) 
+[Visit TRIP-Frontend Bootcamp Website ](https://akashsabale01.github.io/TRIP-Frontend_Bootcamp_website/) 
  :link:
 
   
