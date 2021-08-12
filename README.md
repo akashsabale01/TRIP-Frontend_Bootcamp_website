@@ -17,16 +17,16 @@
 ## Lessons Learned
 
 
-* Responsive Navbar
+:white_check_mark: Responsive Navbar
 
-* Flex and Grid
+:white_check_mark: Flex and Grid
 
-* Cards
+:white_check_mark: Cards
   
-* Modal
+:white_check_mark: Modal
 
-* Use Accordion for FAQ
+:white_check_mark: Use Accordion for FAQ
 
-* How to use Bootstrap Icons
+:white_check_mark: How to use Bootstrap Icons
 
-* How to add Map from google map
+:white_check_mark: How to add Map from google map
