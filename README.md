@@ -40,7 +40,7 @@
 ![App Screenshot](./Screenshots/Info-cards.png) 
 
 ### About Pages 
-![App Screenshot](./Screenshots/About-Page.png) 
+![App Screenshot](./Screenshots/About-Page-1.png) 
 
 ![App Screenshot](./Screenshots/About-Page-2.png) 
 
@@ -48,7 +48,7 @@
 ![App Screenshot](./Screenshots/FAQ-Section.png) 
 
 ### Instructors info
-![App Screenshot](./Screenshots/Instuctors-info.png) 
+![App Screenshot](./Screenshots/Instructors-info.png) 
 
 ### Contact info & Map
 ![App Screenshot](./Screenshots/Contact-info.png) 
